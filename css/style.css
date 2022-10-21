@@ -1,0 +1,60 @@
+.hr-style{
+    border-top: 1px solid rgb(255, 255, 255);
+    padding: 10px 0;
+}
+
+
+.top-header {
+    background: rgb(240, 154, 41);
+    height: 35px;
+}
+.top-header a{
+    text-decoration: none;
+    color: #fff;    
+}
+
+
+.carousel-caption{
+    position: absolute;
+    top: 34%;
+    
+}
+.carousel-item{
+    transition: 2s;
+}
+.glass{
+    background: rgba(255, 255, 255, 0.25);
+    border-radius: 20px;
+    padding: 10px;
+}
+
+
+.pg-02-img-1,.pg-02-img-2,.pg-02-img-3,.pg-03-img-1,.pg-03-img-2,.pg-03-img-3{
+    display: none;
+}
+.pg-01-img-1,.pg-01-img-2,.pg-01-img-3,
+.pg-02-img-1,.pg-02-img-2,.pg-02-img-3,.pg-03-img-1,.pg-03-img-2,.pg-03-img-3{
+   height: 350px;
+}
+
+.fixed-bg{
+    background:linear-gradient(30deg,rgba(189, 118, 31, 0.5),#F09A29,rgba(189, 126, 49, 0.5)) ;
+}
+
+.fixed{
+    padding: 90px;
+}
+
+.footer{
+    background: #F09A29;
+    padding: 40px;
+}
+.footer a{
+    text-decoration: none;
+    color: #fff;
+}
+.quick-menu p{
+    line-height: 10px;
+    padding: 0 16px;
+}
+
